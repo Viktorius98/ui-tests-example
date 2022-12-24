@@ -1,12 +1,3 @@
-#!/usr/bin/python3
-# -*- encoding=utf8 -*-
-
-import os
-
-from pages.base import WebPage
-from pages.elements import WebElement
-from pages.elements import ManyWebElements
-
 
 class MainPage(WebPage):
 
